@@ -3,6 +3,7 @@
 }
 
 header {
+    position: absolute;
     border: 40px;
     width: 100%;
     background-color: #ffffff;

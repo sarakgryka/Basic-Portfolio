@@ -3,12 +3,11 @@
 }
 
 header {
-    position: fixed;
     border: 40px;
     width: 100%;
     background-color: #ffffff;
-    padding-left: 185px;
-    padding-right: 185px;
+    padding-left: 200px;
+    padding-right: 200px;
     margin-bottom: 20px;
     
 }
